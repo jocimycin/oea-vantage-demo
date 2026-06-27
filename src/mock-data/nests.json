@@ -1,0 +1,47 @@
+[
+  {
+    "nest_id": "nest-001",
+    "nest_name": "Lagos-Yaba Nest 01",
+    "lat": 6.5095,
+    "lng": 3.3711,
+    "state": "Lagos",
+    "lga": "Lagos Mainland",
+    "platform_types": ["P1", "P2"],
+    "drone_capacity": 12,
+    "operational": true,
+    "ncaa_permit_ref": "NCAA/RPAS/NEST/2025/001",
+    "onsa_clearance_ref": "ONSA/EUC/2025/0047",
+    "service_radius_p1_km": 100,
+    "service_radius_p2_km": 16
+  },
+  {
+    "nest_id": "nest-002",
+    "nest_name": "Abuja-Gwagwalada Nest 01",
+    "lat": 8.9333,
+    "lng": 7.0833,
+    "state": "FCT",
+    "lga": "Gwagwalada",
+    "platform_types": ["P1"],
+    "drone_capacity": 6,
+    "operational": true,
+    "ncaa_permit_ref": "NCAA/RPAS/NEST/2025/002",
+    "onsa_clearance_ref": "ONSA/EUC/2025/0048",
+    "service_radius_p1_km": 100,
+    "service_radius_p2_km": null
+  },
+  {
+    "nest_id": "nest-003",
+    "nest_name": "Port Harcourt-Rumuola Nest 01",
+    "lat": 4.8156,
+    "lng": 7.0498,
+    "state": "Rivers",
+    "lga": "Obio-Akpor",
+    "platform_types": ["P1", "P2"],
+    "drone_capacity": 8,
+    "operational": false,
+    "ncaa_permit_ref": "NCAA/RPAS/NEST/2025/003",
+    "onsa_clearance_ref": null,
+    "service_radius_p1_km": 100,
+    "service_radius_p2_km": 16
+  }
+]

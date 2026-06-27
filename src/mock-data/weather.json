@@ -1,0 +1,63 @@
+{
+  "observations": [
+    {
+      "obs_id": "wx-001",
+      "nest_id": "nest-001",
+      "nest_name": "Lagos-Yaba",
+      "observed_at": "2026-06-15T09:00:00Z",
+      "source": "nimet_api",
+      "wind_speed_mps": 4.2,
+      "wind_dir_deg": 220,
+      "wind_gust_mps": 6.1,
+      "precipitation_mm": 0.0,
+      "visibility_km": 8.5,
+      "cloud_base_m": 900,
+      "temp_c": 31.2,
+      "humidity_pct": 78,
+      "harmattan_index": 0,
+      "ops_status": "go"
+    },
+    {
+      "obs_id": "wx-002",
+      "nest_id": "nest-002",
+      "nest_name": "Abuja-Gwagwalada",
+      "observed_at": "2026-06-15T09:00:00Z",
+      "source": "openweather",
+      "wind_speed_mps": 7.8,
+      "wind_dir_deg": 45,
+      "wind_gust_mps": 11.2,
+      "precipitation_mm": 2.1,
+      "visibility_km": 3.2,
+      "cloud_base_m": 400,
+      "temp_c": 26.8,
+      "humidity_pct": 89,
+      "harmattan_index": 0,
+      "ops_status": "caution"
+    },
+    {
+      "obs_id": "wx-003",
+      "nest_id": "nest-003",
+      "nest_name": "Port Harcourt-Rumuola",
+      "observed_at": "2026-06-15T09:00:00Z",
+      "source": "nimet_api",
+      "wind_speed_mps": 12.3,
+      "wind_dir_deg": 180,
+      "wind_gust_mps": 18.9,
+      "precipitation_mm": 14.7,
+      "visibility_km": 1.2,
+      "cloud_base_m": 150,
+      "temp_c": 25.1,
+      "humidity_pct": 95,
+      "harmattan_index": 0,
+      "ops_status": "no_fly"
+    }
+  ],
+  "thresholds": {
+    "wind_speed_max_mps": 10.0,
+    "wind_gust_max_mps": 14.0,
+    "precipitation_max_mm": 1.0,
+    "visibility_min_km": 3.0,
+    "cloud_base_min_m": 300,
+    "harmattan_index_max": 3
+  }
+}

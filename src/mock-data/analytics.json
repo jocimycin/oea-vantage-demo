@@ -1,0 +1,66 @@
+{
+  "kpis": {
+    "total_deliveries_mtd": 847,
+    "deliveries_today": 23,
+    "on_time_rate_pct": 94.2,
+    "active_flights": 1,
+    "nests_operational": 2,
+    "nests_total": 3,
+    "facilities_served": 38,
+    "coverage_gap_count": 12
+  },
+  "deliveries_by_day": [
+    { "date": "2026-06-09", "count": 31 },
+    { "date": "2026-06-10", "count": 28 },
+    { "date": "2026-06-11", "count": 35 },
+    { "date": "2026-06-12", "count": 29 },
+    { "date": "2026-06-13", "count": 22 },
+    { "date": "2026-06-14", "count": 39 },
+    { "date": "2026-06-15", "count": 23 }
+  ],
+  "deliveries_by_cargo": [
+    { "type": "blood",          "count": 312 },
+    { "type": "vaccine",        "count": 198 },
+    { "type": "medication",     "count": 241 },
+    { "type": "medical_supply", "count": 74  },
+    { "type": "market_goods",   "count": 22  }
+  ],
+  "coverage_gaps": [
+    {
+      "facility_name": "Badagry General Hospital",
+      "state": "Lagos",
+      "lga": "Badagry",
+      "distance_to_nearest_nest_km": 67.4,
+      "priority_score": 8.7,
+      "in_p1_range": false,
+      "in_p2_range": false
+    },
+    {
+      "facility_name": "Okene PHC",
+      "state": "Kogi",
+      "lga": "Okene",
+      "distance_to_nearest_nest_km": 142.1,
+      "priority_score": 7.2,
+      "in_p1_range": false,
+      "in_p2_range": false
+    },
+    {
+      "facility_name": "Warri Central Hospital",
+      "state": "Delta",
+      "lga": "Warri South",
+      "distance_to_nearest_nest_km": 88.3,
+      "priority_score": 6.9,
+      "in_p1_range": false,
+      "in_p2_range": false
+    },
+    {
+      "facility_name": "Maiduguri Teaching Hospital",
+      "state": "Borno",
+      "lga": "Maiduguri",
+      "distance_to_nearest_nest_km": 610.0,
+      "priority_score": 9.1,
+      "in_p1_range": false,
+      "in_p2_range": false
+    }
+  ]
+}

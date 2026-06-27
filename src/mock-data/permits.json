@@ -1,0 +1,90 @@
+[
+  {
+    "permit_id": "pmt-001",
+    "permit_type": "ncaa_rpas_operator",
+    "permit_number": "NCAA/RPAS/OPR/2025/014",
+    "issued_by": "Nigerian Civil Aviation Authority",
+    "entity_name": "OEA Consults Ltd — ZiplineNG",
+    "valid_from": "2025-01-15T00:00:00Z",
+    "valid_to": "2027-01-14T23:59:59Z",
+    "status": "active",
+    "document_url": null
+  },
+  {
+    "permit_id": "pmt-002",
+    "permit_type": "ncaa_rpas_nest",
+    "permit_number": "NCAA/RPAS/NEST/2025/001",
+    "issued_by": "Nigerian Civil Aviation Authority",
+    "entity_name": "Lagos-Yaba Nest 01",
+    "valid_from": "2025-03-01T00:00:00Z",
+    "valid_to": "2026-08-31T23:59:59Z",
+    "status": "active",
+    "document_url": null
+  },
+  {
+    "permit_id": "pmt-003",
+    "permit_type": "ncaa_rpas_nest",
+    "permit_number": "NCAA/RPAS/NEST/2025/002",
+    "issued_by": "Nigerian Civil Aviation Authority",
+    "entity_name": "Abuja-Gwagwalada Nest 01",
+    "valid_from": "2025-03-01T00:00:00Z",
+    "valid_to": "2026-07-15T23:59:59Z",
+    "status": "active",
+    "document_url": null
+  },
+  {
+    "permit_id": "pmt-004",
+    "permit_type": "ncaa_rpas_nest",
+    "permit_number": "NCAA/RPAS/NEST/2025/003",
+    "issued_by": "Nigerian Civil Aviation Authority",
+    "entity_name": "Port Harcourt-Rumuola Nest 01",
+    "valid_from": "2025-03-01T00:00:00Z",
+    "valid_to": "2026-06-28T23:59:59Z",
+    "status": "active",
+    "document_url": null
+  },
+  {
+    "permit_id": "pmt-005",
+    "permit_type": "onsa_euc",
+    "permit_number": "ONSA/EUC/2025/0047",
+    "issued_by": "Office of the National Security Adviser",
+    "entity_name": "Lagos-Yaba Nest 01 Fleet (7 units)",
+    "valid_from": "2025-02-01T00:00:00Z",
+    "valid_to": "2026-01-31T23:59:59Z",
+    "status": "expired",
+    "document_url": null
+  },
+  {
+    "permit_id": "pmt-006",
+    "permit_type": "onsa_euc",
+    "permit_number": "ONSA/EUC/2026/0012",
+    "issued_by": "Office of the National Security Adviser",
+    "entity_name": "Lagos-Yaba Nest 01 Fleet (7 units) — Renewal",
+    "valid_from": "2026-02-01T00:00:00Z",
+    "valid_to": "2027-01-31T23:59:59Z",
+    "status": "active",
+    "document_url": null
+  },
+  {
+    "permit_id": "pmt-007",
+    "permit_type": "ncaa_flight_ops",
+    "permit_number": "NCAA/FOA/2025/0088",
+    "issued_by": "Nigerian Civil Aviation Authority",
+    "entity_name": "ZiplineNG — National Flight Operations Approval",
+    "valid_from": "2025-06-01T00:00:00Z",
+    "valid_to": "2026-05-31T23:59:59Z",
+    "status": "expired",
+    "document_url": null
+  },
+  {
+    "permit_id": "pmt-008",
+    "permit_type": "state_airspace",
+    "permit_number": "LSAA/RPAS/2026/003",
+    "issued_by": "Lagos State Airspace Authority",
+    "entity_name": "ZiplineNG Lagos Operations",
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_to": "2026-12-31T23:59:59Z",
+    "status": "active",
+    "document_url": null
+  }
+]
