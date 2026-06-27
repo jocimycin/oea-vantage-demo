@@ -13,7 +13,7 @@ import { Permits }    from './pages/Permits'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/oea-vantage-demo">
       <Routes>
         <Route path="/" element={<Shell />}>
           <Route index element={<Navigate to="/dashboard" replace />} />
